@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home_it"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home"
+        android:orderInCategory="2"/>
+    <item
+        android:id="@+id/news"
+        android:icon="@drawable/news2"
+        android:title="News"
+        android:orderInCategory="1"
+        />
+    <item
+        android:id="@+id/weather"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Weather"
+        android:orderInCategory="3"
+        />
+
+</menu>
